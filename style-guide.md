@@ -11,22 +11,26 @@ The designs were created to the following widths:
 
 ### Primary
 
-Very Dark Magenta: hsl(300, 43%, 22%)
-Soft Pink: hsl(333, 80%, 67%)
+- Moderate blue: hsl(238, 40%, 52%)
+- Soft Red: hsl(358, 79%, 66%)
+- Light grayish blue: hsl(239, 57%, 85%)
+- Pale red: hsl(357, 100%, 86%)
 
 ### Neutral
 
-Dark Grayish Magenta: hsl(303, 10%, 53%)
-Light Grayish Magenta: hsl(300, 24%, 96%)
-White: hsl(0, 0%, 100%)
+- Dark blue: hsl(212, 24%, 26%)
+- Grayish Blue: hsl(211, 10%, 45%)
+- Light gray: hsl(223, 19%, 93%)
+- Very light gray: hsl(228, 33%, 97%)
+- White: hsl(0, 0%, 100%)
 
 ## Typography
 
 ### Body Copy
 
-- Font size: 15px
+- Font size (paragraph): 16px
 
 ### Font
 
-- Family: [Spartan](https://fonts.google.com/specimen/Spartan)
+- Family: [Rubik](https://fonts.google.com/specimen/Rubik)
 - Weights: 400, 500, 700
