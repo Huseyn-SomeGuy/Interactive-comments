@@ -13,13 +13,34 @@
    <script src="https://kit.fontawesome.com/f3ac8151f3.js" crossorigin="anonymous"></script>
    <!-- Əgər frontendmentor projectləri ilə işləsəm İconu işə salmalıyam -->
    <!-- <link rel="icon" type="image/png" href="img/favicon-32x32.png"> -->
-   <title>Default</title>
+   <title>Interactive Comments</title>
 </head>
 
 <body>
    <div class="wrapper">
-      <div class="content">
-         <p>Someting</p>
+      <div class="container">
+         <main class="comments">
+            <div class="comments__comment">
+               <div class="comments__score">
+                  <button class="comments__upvote"><img src="./img/icon-plus.svg" alt="plus sign"></button>
+                  <p class="comments__points">12</p>
+                  <button class="comments__downvote"><img src="./img/icon-minus.svg" alt="minus sign"></button>
+               </div>
+               <div class="comments__body">
+                  <div class="comments__header">
+                     <div class="comments__user">
+                        <img src="./img/avatars/image-amyrobson.webp" alt="User">
+                        <span class="comments__user-name">amyrobson</span>
+                        <span class="comments__reply-date">1 month ago</span>
+                     </div>
+                     <button class="comments__reply"><img src="./img/icon-reply.svg" alt=""> Reply</button>
+                  </div>
+                  <div class="comments__text">Impressive! Though it seems the drag feature could be improved. But
+                     overall it looks incredible. You've nailed the design and the responsiveness at various breakpoints
+                     works really well.</div>
+               </div>
+            </div>
+         </main>
       </div>
    </div>
 </body>
